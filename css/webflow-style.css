@@ -2742,6 +2742,12 @@ img {
   margin-bottom: 8px;
 }
 
+.cta-text-bold {
+  margin-bottom: 8px;
+  color: var(--peru);
+  font-weight: 700;
+}
+
 .nav-text {
   border-bottom: 2px solid #0000;
   font-weight: 600;
