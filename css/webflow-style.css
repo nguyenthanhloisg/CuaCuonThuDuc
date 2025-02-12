@@ -3063,6 +3063,11 @@ img {
     text-align: left;
   }
 
+  .footer-text-bold {
+    color: var(--peru);
+    font-weight: 700;
+  }
+
   .footer-logo-wrapper {
     justify-content: flex-start;
     align-items: flex-start;
