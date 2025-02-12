@@ -788,6 +788,11 @@ textarea.w-input, textarea.w-select {
   display: none !important;
 }
 
+.footer-text-bold {
+  color: var(--peru);
+  font-weight: 700;
+}
+
 @media screen and (max-width: 991px) {
   .w-container {
     max-width: 728px;
