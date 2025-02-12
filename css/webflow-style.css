@@ -2547,6 +2547,11 @@ img {
   font-weight: 500;
 }
 
+.footer-text-bold {
+  color: var(--peru);
+  font-weight: 700;
+}
+
 .footer-logo-wrapper {
   text-align: center;
   justify-content: center;
@@ -3056,10 +3061,6 @@ img {
 
   .footer-text {
     text-align: left;
-  }
-
-  .footer-text-bold {
-    color: var(--peru);font-weight: 700;
   }
 
   .footer-logo-wrapper {
